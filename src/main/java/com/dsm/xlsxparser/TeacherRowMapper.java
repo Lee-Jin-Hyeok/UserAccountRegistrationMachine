@@ -1,4 +1,4 @@
-package com.dsm.xmlparser;
+package com.dsm.xlsxparser;
 
 import org.springframework.jdbc.core.RowMapper;
 

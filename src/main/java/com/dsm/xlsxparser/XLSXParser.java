@@ -1,4 +1,4 @@
-package com.dsm.xmlparser;
+package com.dsm.xlsxparser;
 
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
